@@ -21,7 +21,7 @@ When a player posts in the submissions channel:
    reason, and the pipeline stops there.
 3. **Summarized** — roleplay flourish is stripped out, leaving the core action.
 4. **Resolved** — the AI narrates the immediate outcome and may schedule one or more
-   **Response Events**: delayed consequences (e.g. "Genosha lodges a protest — 2 days
+   **Response Events**: delayed consequences (e.g. "China lodges a protest — 2 days
    IRL") that will mature and play out automatically later, taking into account
    whatever the country did in the meantime.
 5. **Broadcast** — the result is posted to the actions channel and logged.
@@ -136,7 +136,7 @@ Year,Country,Population,GDP,Budget,Quality_of_Life,Stability
 step uses `admin_rules.txt` as the hard constraints actions can't violate (e.g. "no
 metagaming," "no inventing weapons of mass destruction without a multi-week tech
 program"); `admin_reminders.txt` is loaded into nearly every AI call as softer
-ongoing context (e.g. "Genosha and Wakanda are currently at a ceasefire").
+ongoing context (e.g. "The Untied States and China are currently at a ceasefire").
 
 ### 7. Install & run
 
